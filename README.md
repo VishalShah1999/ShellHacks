@@ -15,6 +15,6 @@ python Mask_and_Temperature_Detection.py
 python PeopleCount_and_SocialDistance.py
 ```
 ## Demo
-You can find the demo of the entire system <a href="https://www.youtube.com/watch?v=pLPoUTklTkY">here</a>.
+You can find the demo of the entire system <a href="https://youtu.be/kzobayXzAaQ">here</a>.
 ## Technologies Used 
 OpenCV, Deep Learning, Computer Vision, Mobilenet, CNN
